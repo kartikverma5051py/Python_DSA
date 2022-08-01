@@ -17,7 +17,7 @@ def count_sort(arr):
     return arr
 
 
-    print(count_Array)
+
 
 
 if __name__ =="__main__":
